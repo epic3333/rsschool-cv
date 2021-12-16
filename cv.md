@@ -1,4 +1,5 @@
 # Yury Zharenkov 
+<img src="./foto.jpg" width="400">
 
 ### Contact info
 
