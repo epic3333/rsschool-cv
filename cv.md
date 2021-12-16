@@ -54,7 +54,7 @@ window.addEventListener('DOMContentLoaded', function() {
 ***
 >Online learning: 
 * end of 2020 to the present
-  * SkiilBox
+  * SkillBox
     * [Frontend developer profession](https://sale.skillbox.ru/invite/?invite_hash=d167fe5c-2787-4a61-9aaa-7d79200aebb1&utm_source=invite_pr)
 * 2020 
   + GeekBrains:
