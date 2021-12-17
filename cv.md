@@ -79,11 +79,14 @@ Participated in a joint code review.
 ### Projects
 ***
 
->My [CV](https://epic3333.github.io/rsschool-cv/cv) project (in progress)
+<img src="./preview.png" width="250">
+
+>Name: [CV#1. Markdown & Git](https://epic3333.github.io/rsschool-cv/cv)  
+>Git: [sourse code](https://github.com/epic3333/rsschool-cv/tree/gh-pages)
+
+>Skills:
 * Markdown
-* HTML5
-* CSS3
-* JavaScript
+* Git
 
 ### English
 ***
