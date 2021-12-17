@@ -10,10 +10,7 @@
 
 ### About me
 ***
->I am currently finishing my military career, my new goal is to change my professional activity and start a career as a developer, my strengths are teamwork, focus on goals, 
-ability to correctly allocate time and self-motivation, 
-my work experience it is 10 years in the field of management, 2 years ago I began 
-to independently study frontend development and develop in this area.
+>I am currently finishing my military career. My new goal is to change my professional activity and to start a career as a developer. My strengths are teamwork, focus on goals, ability to allocate time correctly as well as self-motivation. My work experience is 10 years in the management sphere. 2 years ago I began studying front-end web development and continue to improve my skills in this sphere.
 
 ### Skills
 ***
@@ -71,10 +68,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
 ### Experience
 ***
->Participated in the joint development of the MVP of the Randomizer.me project. Implemented the "random number" block.
-Solved problems of generating a random number in different ways. Developed the logic for generating a large number of numbers and their correct output to the user.
-I wrote requests to the server via XHR, fetch, developed the logic for using server responses and presentation in the desired form. He worked according to the SCRUM methodology.
-Participated in a joint code review.
+>Took part in the cooperative development of the MVP of the Randomizer.me project. Implemented the “random number” block. Solved problems of a random number generating in different ways. Developed the logic for generating a large amount of numbers and their correct output to the user. Wrote requests to the server via XHR, fetch, developed the logic for using server responses and presentation in the desired form. Worked according to the SCRUM methodology. Took part in a cooperative code review.
 
 ### Projects
 ***
