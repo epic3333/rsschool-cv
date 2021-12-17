@@ -21,7 +21,6 @@ to independently study frontend development and develop in this area.
 >* Sass
 >* JavaScript 
 >* Git
->* React
 >* Adobe Photoshop
 >* SCRUM
 
@@ -65,6 +64,7 @@ window.addEventListener('DOMContentLoaded', function() {
     + [HTML5+CSS3](https://gb.ru/certificates/581619.en)
 * 2018-2019 
   * Self-education by articles and videos HTML, CSS, JS.
+
 >Higher education:
 * 2007-2012
   * [Military Academy of Radiation Chemical and Biological Defense Troops](https://varhbz.mil.ru/)
@@ -75,6 +75,15 @@ window.addEventListener('DOMContentLoaded', function() {
 Solved problems of generating a random number in different ways. Developed the logic for generating a large number of numbers and their correct output to the user.
 I wrote requests to the server via XHR, fetch, developed the logic for using server responses and presentation in the desired form. He worked according to the SCRUM methodology.
 Participated in a joint code review.
+
+### Projects
+***
+
+>My [CV](https://epic3333.github.io/rsschool-cv/cv) project (in progress)
+* Markdown
+* HTML5
+* CSS3
+* JavaScript
 
 ### English
 ***
